@@ -19,7 +19,7 @@ namespace Proyecto_prueba
 
         private void Form1_Load( object sender, EventArgs e )
         {
-            //Comentario inicial
+            //Comentario 1
         }
     }
 }
