@@ -1,0 +1,2 @@
+C:\Users\Alexx\Desktop\Proyecto-prueba\Proyecto-prueba\bin\Debug\Proyecto-prueba.exe.config
+C:\Users\Alexx\Source\Repos\pruebaC#\Proyecto-prueba\Proyecto-prueba\bin\Debug\Proyecto-prueba.exe.config
