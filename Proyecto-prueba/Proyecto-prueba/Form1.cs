@@ -16,5 +16,10 @@ namespace Proyecto_prueba
         {
             InitializeComponent();
         }
+
+        private void Form1_Load( object sender, EventArgs e )
+        {
+            //Comentario 1
+        }
     }
 }
