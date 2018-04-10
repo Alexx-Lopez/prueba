@@ -24,11 +24,7 @@ namespace Proyecto_prueba
             //Comentario 3
             //Comentario 4 
 
-            //comentarios de Alexx
 
-            //comentario de Erick
-            //comentario de Erick
-            //comentario de Erick
         }
     }
 }
