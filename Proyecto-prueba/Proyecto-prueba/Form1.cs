@@ -33,5 +33,10 @@ namespace Proyecto_prueba
 
             //Cambios realizados por alexx
         }
+
+        public void restar()
+        {
+            //restar los números
+        }
     }
 }
