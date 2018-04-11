@@ -17,7 +17,7 @@ namespace Proyecto_prueba
             InitializeComponent();
         }
 
-        private void Form1_Load( object sender, EventArgs e )
+        private void Form1_Load(object sender, EventArgs e)
         {
             /*Comentarios desde la base*/
             //Comentario 1
@@ -33,6 +33,13 @@ namespace Proyecto_prueba
             //6
 
             //Cambios realizados por alexx
+
+            //Cambios realizados por Erick
+        }
+
+        public  void sumar()
+        {
+            // se suman los numeros
         }
     }
 }
