@@ -19,6 +19,7 @@ namespace Proyecto_prueba
 
         private void Form1_Load( object sender, EventArgs e )
         {
+            /*Comentarios desde la base*/
             //Comentario 1
             //Comentario 2
             //Comentario 3
