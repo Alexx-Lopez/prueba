@@ -41,5 +41,10 @@ namespace Proyecto_prueba
         {
             // se suman los numeros
         }
+
+        public void restar()
+        {
+            //restar los números
+        }
     }
 }
