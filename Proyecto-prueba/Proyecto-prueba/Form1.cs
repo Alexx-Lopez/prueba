@@ -59,5 +59,10 @@ namespace Proyecto_prueba
 
         }
 
+        public void mensaje3()
+        {
+            MessageBox.Show("Mensaje");
+
+        }
     }
 }
