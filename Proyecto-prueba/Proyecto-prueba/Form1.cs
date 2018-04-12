@@ -39,9 +39,9 @@ namespace Proyecto_prueba
             // se suman los numeros
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        public void mensaje()
         {
-
+            MessageBox.Show("Mensaje");
         }
     }
 }

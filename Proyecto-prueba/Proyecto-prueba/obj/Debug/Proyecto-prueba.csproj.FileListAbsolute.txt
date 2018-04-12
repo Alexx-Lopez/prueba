@@ -1,4 +1,3 @@
 C:\Users\Alexx\Desktop\Proyecto-prueba\Proyecto-prueba\bin\Debug\Proyecto-prueba.exe.config
 C:\Users\Alexx\Source\Repos\pruebaC#\Proyecto-prueba\Proyecto-prueba\bin\Debug\Proyecto-prueba.exe.config
 C:\Users\Alexx\Source\Repos\prueba2C#\Proyecto-prueba\Proyecto-prueba\bin\Debug\Proyecto-prueba.exe.config
-C:\Users\Compu\Source\Repos\prueba\Proyecto-prueba\Proyecto-prueba\bin\Debug\Proyecto-prueba.exe.config
