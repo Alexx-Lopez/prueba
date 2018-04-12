@@ -63,13 +63,6 @@ namespace Proyecto_prueba
             //holiwis
         }
 
-    }
-}
-        public void mensaje2()
-        {
-            MessageBox.Show("Mensaje");
-
-        }
 
         public void mensaje3()
         {
