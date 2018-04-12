@@ -21,5 +21,10 @@ namespace Proyecto_prueba
         {
            
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hola Alexxxxxxxxxxx", "Ya puedo", MessageBoxButtons.OK, MessageBoxIcon.Hand);
+        }
     }
 }

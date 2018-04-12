@@ -1,3 +1,12 @@
 C:\Users\Alexx\Desktop\Proyecto-prueba\Proyecto-prueba\bin\Debug\Proyecto-prueba.exe.config
 C:\Users\Alexx\Source\Repos\pruebaC#\Proyecto-prueba\Proyecto-prueba\bin\Debug\Proyecto-prueba.exe.config
 C:\Users\Alexx\Source\Repos\prueba2C#\Proyecto-prueba\Proyecto-prueba\bin\Debug\Proyecto-prueba.exe.config
+C:\Users\Compu\Source\Repos\prueba\Proyecto-prueba\Proyecto-prueba\bin\Debug\Proyecto-prueba.exe.config
+C:\Users\Compu\Source\Repos\prueba\Proyecto-prueba\Proyecto-prueba\bin\Debug\Proyecto-prueba.exe
+C:\Users\Compu\Source\Repos\prueba\Proyecto-prueba\Proyecto-prueba\bin\Debug\Proyecto-prueba.pdb
+C:\Users\Compu\Source\Repos\prueba\Proyecto-prueba\Proyecto-prueba\obj\Debug\Proyecto-prueba.csprojResolveAssemblyReference.cache
+C:\Users\Compu\Source\Repos\prueba\Proyecto-prueba\Proyecto-prueba\obj\Debug\Proyecto_prueba.Form1.resources
+C:\Users\Compu\Source\Repos\prueba\Proyecto-prueba\Proyecto-prueba\obj\Debug\Proyecto_prueba.Properties.Resources.resources
+C:\Users\Compu\Source\Repos\prueba\Proyecto-prueba\Proyecto-prueba\obj\Debug\Proyecto-prueba.csproj.GenerateResource.Cache
+C:\Users\Compu\Source\Repos\prueba\Proyecto-prueba\Proyecto-prueba\obj\Debug\Proyecto-prueba.exe
+C:\Users\Compu\Source\Repos\prueba\Proyecto-prueba\Proyecto-prueba\obj\Debug\Proyecto-prueba.pdb
