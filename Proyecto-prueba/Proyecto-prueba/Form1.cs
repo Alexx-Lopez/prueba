@@ -19,32 +19,7 @@ namespace Proyecto_prueba
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            /*Comentarios desde la base*/
-            //Comentario 1
-            //Comentario 2
-            //Comentario 3
-            //Comentario 4 
-
-            //1
-            //2
-            //3
-            //4
-            //5
-            //6
-
-            //Cambios realizados por alexx
-
-            //Cambios realizados por Erick
-        }
-
-        public  void sumar()
-        {
-            // se suman los numeros
-        }
-
-        public void restar()
-        {
-            //restar los números
+           
         }
     }
 }
