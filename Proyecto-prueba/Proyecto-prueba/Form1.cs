@@ -44,5 +44,20 @@ namespace Proyecto_prueba
             MessageBox.Show("Mensaje");
 
         }
+
+        public void funcionaaaa()
+        {
+            MessageBox.Show("Sarai ");
+            MessageBox.Show("Que");
+            MessageBox.Show("Hiciste? ");
+
+        }
+        
+        public void mensaje2()
+        {
+            MessageBox.Show("Mensaje");
+
+        }
+
     }
 }
