@@ -38,5 +38,10 @@ namespace Proyecto_prueba
         {
             // se suman los numeros
         }
+
+        public void mensaje()
+        {
+            MessageBox.Show("Mensaje");
+        }
     }
 }
