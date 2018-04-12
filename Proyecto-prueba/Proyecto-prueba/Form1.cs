@@ -21,5 +21,10 @@ namespace Proyecto_prueba
         {
            
         }
+
+        private void button4_Click( object sender, EventArgs e )
+        {
+            MessageBox.Show("Contigo <3");
+        }
     }
 }
