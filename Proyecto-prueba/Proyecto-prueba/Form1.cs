@@ -56,6 +56,18 @@ namespace Proyecto_prueba
         public void mensaje2()
         {
             MessageBox.Show("Mensaje");
+        }
+
+        public void mauri()
+        {
+            //holiwis
+        }
+
+    }
+}
+        public void mensaje2()
+        {
+            MessageBox.Show("Mensaje");
 
         }
 
