@@ -27,5 +27,10 @@ namespace Proyecto_prueba
             MessageBox.Show("C");
             MessageBox.Show("D");
         }
+
+        public void funcion_noyi2()
+        {
+            //contenido de la funcion
+        }
     }
 }
