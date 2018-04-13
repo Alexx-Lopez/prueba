@@ -24,7 +24,8 @@ namespace Proyecto_prueba
 
         private void button3_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Mauri quiere");
+            MessageBox.Show("A");
+            MessageBox.Show("B");
         }
 
         private void button4_Click( object sender, EventArgs e )
