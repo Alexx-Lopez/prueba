@@ -25,7 +25,11 @@ namespace Proyecto_prueba
         private void button3_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Mauri quiere");
-            //aprovecha el bug
+        }
+
+        private void button4_Click( object sender, EventArgs e )
+        {
+            MessageBox.Show("Contigo <3");
         }
     }
 }
